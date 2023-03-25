@@ -1,10 +1,13 @@
 # Fundamental_Nueral_Network
 
 Goal: Implement an MLP for hand-written digit recognition.
+
 Instruction:
+
 • Read the lecture note on neural network, focusing on activation functions and the forward and backward
 propagation algorithms. You should use the pseudo-codes for the mini-batch stochastic gradient descent
 algorithm as a reference to implement the training algorithm.
+
 • Dataset: the files under the “data” folder contains a train-test split of the MNIST dataset for training
 and testing. For example, X train.pkl is the vectors of training examples and Y train.pkl contains
 the one-hot vectors of the labels of training examples. More information about this dataset and
