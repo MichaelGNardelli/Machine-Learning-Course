@@ -1,5 +1,6 @@
 # Fundamental_Nueral_Network
 
+## Project Description
 Goal: Implement an MLP for hand-written digit recognition.
 
 Instruction:
